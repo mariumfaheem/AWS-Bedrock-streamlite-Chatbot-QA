@@ -22,6 +22,12 @@ pip install --upgrade pip
 ### To Run Streamlite Application
 
 
-```rag_env/bin/python -m streamlit run app.py
 ```
+rag_env/bin/python -m streamlit run app.py
+```
+
+
+# Final Streamlite Website
+
+![img.png](img.png)
 
